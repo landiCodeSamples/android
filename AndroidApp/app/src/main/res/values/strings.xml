@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LandiFinal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string-array name="theme_names">
+        <item>Select a new theme</item>
+        <item>Mesh Background</item>
+        <item>Wood Background</item>
+        <item>Android Background</item>
+    </string-array>
+    <string-array name="query_options">
+        <item>Select a Database Query</item>
+        <item>Show All Usernames</item>
+        <item>Show All Email Address</item>
+        <item>Show All Members Names</item>
+        <item>Show Total Members</item>
+    </string-array>
+    <string-array name="query_result_data">
+        <item>Results</item>
+    </string-array>
+</resources>
